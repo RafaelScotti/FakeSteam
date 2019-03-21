@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fake Steam</string>
+    <string name="account_name">Account name</string>
+    <string name="password">Password</string>
+    <string name="password_hint">********</string>
+    <string name="forgot_your_login_info">Forgot your login?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="remember_password">Remember password</string>
+    <string name="user_name">User name</string>
+</resources>
